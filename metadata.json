@@ -1,0 +1,5 @@
+{
+  "name": "projeto certo 01",
+  "description": "An intelligent web builder that turns text descriptions or raw HTML into modern, Tailwind-styled interfaces using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
